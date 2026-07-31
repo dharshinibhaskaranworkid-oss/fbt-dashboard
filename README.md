@@ -4,7 +4,7 @@ An analytics prototype that ranks **Fast-Moving Consumer Goods (FMCG)** sellers 
 by how strong a candidate they are for **Fulfilled by TikTok (FBT)** — so a Seller Growth team
 knows exactly who to pitch first, and with what numbers.
 
-**[▶ Live dashboard](https://YOUR-USERNAME.github.io/fbt-dashboard/)** — replace with your GitHub Pages URL after deploying.
+**[▶ Live dashboard](https://dharshinibhaskaranworkid-oss.github.io/fbt-dashboard/)** — replace with your GitHub Pages URL after deploying.
 
 ![dashboard](preview.png)
 
